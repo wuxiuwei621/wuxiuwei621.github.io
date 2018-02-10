@@ -77,6 +77,7 @@ img {
 	display: block;
 	max-width: 100%;
 	height: auto;
+	margin: 0 auto;
 }
 .list-unstyled li {
 	padding: 5px 0;
